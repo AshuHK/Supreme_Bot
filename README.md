@@ -12,4 +12,4 @@ This bot is not meant to be used for purchasing products from Supreme and may re
 python3.8 bot.py
 ```
 3. Let it place the product into your cart and fill out all of the information for you.
-  a. All you have to do is fill out the CAPTCHA
+  - All you have to do is fill out the CAPTCHA
