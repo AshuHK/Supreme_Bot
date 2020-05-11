@@ -1,0 +1,10 @@
+name: John Doe 
+email: JohnDoe@gmail.com
+tele: 1234567890
+address: 1234 Broadway Drive
+address_2: 555
+zip_code: 33124
+card_number: 1234123412341234
+exp_month: 6
+exp_year: 2023
+CVV: 000
